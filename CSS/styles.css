@@ -100,4 +100,11 @@ header{
     color: #1a73e8;
 }
 
-/*  */
+/*Corpo do Site */
+
+.container {
+    display: flex;
+    flex-direction: row;
+    padding-left: 165px;
+    padding-right: 70px;
+}
